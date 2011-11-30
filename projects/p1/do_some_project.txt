@@ -1,1 +1,5 @@
 The group should make a project, to learn various stuff!
+
+Let's implement Vassilis' idea to build a tool for parallel-posting "news" to sites (g+, github, etc)!
+
+Vassili, please elaborate on your idea...
